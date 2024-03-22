@@ -1,1 +1,1 @@
-# CosmoExample
+# Cosmo
